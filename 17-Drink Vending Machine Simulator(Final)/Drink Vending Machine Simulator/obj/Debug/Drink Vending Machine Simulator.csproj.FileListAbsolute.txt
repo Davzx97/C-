@@ -1,0 +1,20 @@
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe.config
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.pdb
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.mainForm.resources
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.Properties.Resources.resources
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.exe
+C:\Users\David\source\repos\Drink Vending Machine Simulator\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.pdb
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe.config
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.exe
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\bin\Debug\Drink Vending Machine Simulator.pdb
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csprojAssemblyReference.cache
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.mainForm.resources
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink_Vending_Machine_Simulator.Properties.Resources.resources
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.GenerateResource.cache
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.csproj.CoreCompileInputs.cache
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.exe
+D:\College\1-(2018-2019 spring)\C#\C# projects saves\17-Drink Vending Machine Simulator(Final)\Drink Vending Machine Simulator\obj\Debug\Drink Vending Machine Simulator.pdb
